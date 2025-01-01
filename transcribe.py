@@ -3,8 +3,6 @@ import json
 import os
 from util import *
 
-# device = 'cuda' if torch.cuda.is_available() else 'cpu'
-# model = whisper.load_model("tiny.en").to(device)
 txtfilepath = "txt"
 file_to_be_transcribed = []
 with open('audio-files.json', 'r') as f:
