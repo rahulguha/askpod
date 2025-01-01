@@ -1,0 +1,1 @@
+How to use the whisper API to transcribe a YouTube video. We're taking the YouTube video that I have and we're just creating a transcript. And we could use that transcript to post and promote the video itself. This is a lot you can do with this. You can do real-time streaming as well. It is open source as well as available via API. It's easier and relatively cheap to use the API.
